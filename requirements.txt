@@ -1,0 +1,9 @@
+aiofiles
+aiohttp
+colorlog
+httpx
+openvino
+pywhispercpp @ git+https://github.com/absadiki/pywhispercpp@f50e0c2b4456c38a37cd62bb131f1057b27aa9ec
+tomli
+torch
+uvloop

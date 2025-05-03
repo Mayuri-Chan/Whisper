@@ -1,0 +1,7 @@
+[app]
+HOST="0.0.0.0"
+PORT=5000
+
+[whisper]
+model="base"
+max_audio_size=26214400  # 25MB
