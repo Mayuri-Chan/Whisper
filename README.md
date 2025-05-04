@@ -1,5 +1,9 @@
 # Self-hosted whisper api  
 
+## Requirements  
+- python3.10  
+- ffmpeg  
+
 ## Usage  
 
 ```bash
